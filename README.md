@@ -1,7 +1,7 @@
-# AREP-Lab04
+# AREP-Lab05
 
 ## Description
-Esta aplicación es un servidor web que soporta solicitudes (no concurrentes). El servidor retorna archivos html e imagenes .jpg y .png.
+Esta aplicación es un servidor web que soporta solicitudes concurrentes. El servidor retorna archivos html e imagenes .jpg y .png.
 
 ### Resources
 - [/WebService/image.jpg](https://arep-lab04.herokuapp.com/WebService/image.jpg)
